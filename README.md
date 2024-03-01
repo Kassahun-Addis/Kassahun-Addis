@@ -23,11 +23,15 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kassahun-addiss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kassahun-addiss/" height="30" width="40" /></a>
 <a href="https://t.me/Kasisho" target="_blank">
-  <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" height="30" width="30" style="background-color: black;">
+  <span style="background-color: #000000; padding: 5px;">
+    <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" height="30" width="30">
+  </span>
 </a>
 
 <a href="mailto:kassahunaddiss6@gmail.com" target="_blank">
-  <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30" style="background-color: black;">
+  <span style="background-color: #000000; padding: 5px;">
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30">
+  </span>
 </a>
 <a href="https://www.facebook.com/kasahun.adiss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kasahun.adiss/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kassahunaddiss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kassahunaddiss/" height="30" width="40" /></a>
