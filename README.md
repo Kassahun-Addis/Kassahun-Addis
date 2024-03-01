@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kassahunaddiss6@gmail.com/0939300774**
 
-- 📄 Know about my experiences [Coming_soon](Coming_soon)
+- 📄 Know about my experiences [[Coming_soon](Coming_soon)](https://kassahun-addiss.netlify.app)
 
 - ⚡ Fun fact **I have a strong passion for collaborative work.**
 
