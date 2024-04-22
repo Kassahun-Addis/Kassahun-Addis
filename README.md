@@ -13,7 +13,8 @@
 
 - 👯 I’m looking to collaborate on **projects related to software development, networking and Mobile Android Development.**
 
-- 📫 How to reach me **kassahunaddiss6@gmail.com/0939300774**
+- 📫 How to reach me **kassahunaddiss6@gmail.com**
+- 📫 How to reach me **0939300774**
 
 - 📄 Know about my experiences https://kassahun-addiss.netlify.app
 
